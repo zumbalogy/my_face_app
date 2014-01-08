@@ -1,4 +1,4 @@
-requie './god'
+require './god'
 
 run Sinatra::Application
 
